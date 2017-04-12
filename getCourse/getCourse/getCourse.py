@@ -2,8 +2,8 @@
 from bs4 import BeautifulSoup
 import time
 import datetime
-id = "201592465"
-password = "19970312"
+id = "*********"
+password = "*************"
 course={
     #'rpingp(4)':'02',
     #'100001015y':'880',
