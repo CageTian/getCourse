@@ -8,12 +8,14 @@ usage:
 将id(学号)password(密码)及course(需要选课的课程号和课序号)填写之后运行
 
 需要安装以下python包：
-> BeautifulSoup4
-> requests
 
-'''shell
+> BeautifulSoup4
+
+> requests
+cmd 中输入：
+```shell
 pip install beautifulsoup4
 pip install requests
-'''
+```
 
 喜欢的就给个Star吧！
