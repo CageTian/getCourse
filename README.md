@@ -12,7 +12,9 @@ usage:
 > BeautifulSoup4
 
 > requests
-cmd 中输入：
+
+cmd 中输入以下进行安装：
+
 ```shell
 pip install beautifulsoup4
 pip install requests
