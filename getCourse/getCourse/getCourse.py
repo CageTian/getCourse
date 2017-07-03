@@ -13,10 +13,6 @@ course={
     #'100001004z':'880'
     }
 url="http://zhjw.dlut.edu.cn"
-#cookies1={
-#    'lzstat_uv':'31329816153518056971|3122532',
-#    'Hm_lvt_b841bd73360946ada23db9fa82c9c6ae':'1477481854'
-#    }
 header1 = {
     'Content-Type':'application/x-www-form-urlencoded',
     'User-Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0',
